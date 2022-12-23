@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,500;1,800&family=Quicksand:wght@500&display=swap');
+
+.jumbotron {
+  padding-top: 9rem;
+  background-color: rgb(201, 250, 249);
+}
+
+h6 {
+  font-family: EB Garamond, serif;
+  font-size: 2rem;
+  color: #fff;
+}
+
+.lead {
+  color: black;
+}
+
+#text {
+  color: black;
+}
+
+a:nth-child(1) {
+  color: blue;
+  font-weight: bold;
+  matgin-buttom: 7px;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+footer {
+  background-color: rgb(8, 199, 196);
+  padding-top: 14rem;
+  padding: 44px;
+  text-align: center;
+}
+
+footer small {
+  color: #fff;
+}
+
+/* .jumbotron {
+  background-image: url('img/jumbotron.jpeg');
+  background-size: cover;
+} */
